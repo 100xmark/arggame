@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4f2337c7338391186F9F7547c272b5e460f0c823",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x4f2337c7338391186F9F7547c272b5e460f0c823",
+  "NETWORK": {
+    "NAME": "Mumbai",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "ArgGame_Test",
+  "SYMBOL": "AGT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/arggame-test",
+  "SHOW_BACKGROUND": true
+}
